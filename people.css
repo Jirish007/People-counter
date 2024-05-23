@@ -1,0 +1,20 @@
+body{
+    background-image: url('./500px-FlintLockwood.png');
+    background-size: cover;
+background-position: center;
+}
+.intro{
+    display: block;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding-top: 50px;
+}
+.intro button{
+    background-color: red;
+    color: white;
+    border-radius: 20px;
+    width: 100px;
+    height: 50px;
+    padding: auto;
+}
